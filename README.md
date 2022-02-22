@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucandman
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning about ai and machine learning (might look into full stack web dev in the far future)
-- 💞️ I’m looking to collaborate on learning!!
-- 📫 Help is always appreaciated!
+- hi, i’m @lucandman
+- i’m interested in data science
+- i’m currently learning about ai and machine learning (might look into full stack web dev in the far future)
+- i’m looking to collaborate on learning!!
+- help is always appreaciated!
